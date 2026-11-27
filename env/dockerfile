@@ -1,0 +1,6 @@
+FROM almalinux:9
+ENV 
+POSTGRES_DB=app_database
+POSTGRES_USER=admin
+POSTGRES_PASSWORD=supersecret
+CMD ["sleep", "1000"]
