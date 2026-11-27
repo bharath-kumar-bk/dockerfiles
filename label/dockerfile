@@ -1,0 +1,5 @@
+FROM alamalinux:9
+LABLEL trainer="Bharathkumar"\
+course="joindevops"\
+duration="120hs"\
+
